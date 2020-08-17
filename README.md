@@ -17,12 +17,12 @@ But if the trade is lossy, like some of those coal guzzling generator mods that 
 So for this modpack I've endeavored to maintain as much stability as possible. The method I've chosen for establishing the merit of trades is the Energy-Matter Currency (EMC) pricing system developed in the mod [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte). 
 
 #### Coins of the Realm
-For the coins, I've gone with the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod, which offers a suitable set of coins that can be interchanged with each other by crafting to the next higher/lower denomination. I've chosen a somewhat arbitrary target EMC value of 100 for the base copper coin, because it places the most common trades in the copper-silver range, with gold coins for expensive trades.
+For the coins, I've gone with the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod, which offers a suitable set of coins that can be interchanged with each other by crafting to the next higher/lower denomination. I've chosen a somewhat arbitrary target EMC value of 64 for the base copper coin, because it places the most common trades in the copper-silver range, with gold coins for expensive trades.
 
 
 | Coin | EMC |
 |------|-----|
-| copper | 100 |
-| silver | 800 |
-| gold | 6,400 |
-| sack of coins | 57,600| 
+| copper | 64 |
+| silver | 512 |
+| gold | 4,096 |
+| sack of coins | 36,864| 
