@@ -7,7 +7,7 @@ Ever notice how bizarre the villager prices are? There are trades that clearly w
 This modpack seeks to correct those anomalies by switching away from using clunky emeralds as currency, into something a bit more suitable to the Minecraft fantasy genre: Coins of copper, silver, and gold.
 
 #### What is currency?
-Money is a type of portable storage for value, in some ways similar to Refined Storage, Applied Energistics, and ProjectE EMC. That value can be stored as money by trading things for money, and then drawn back out by trading money for things. It is a liquid asset that can take the shape of anything it can be traded for.
+Money is a type of portable storage for value, in some ways similar to [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage), [Applied Energistics](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2), and [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte). That value can be stored as money by trading things for money, and then drawn back out by trading money for things. It is a liquid asset that can take the shape of anything it can be traded for.
 
 #### Stability & Inflation
 If a copper coin can be traded for a rabbit, and a rabbit can be traded for a copper coin, then that copper coin holds the promise of a rabbit. This reversible trade gives the coin the property of holding the value of a rabbit for later trade.
