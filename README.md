@@ -1,7 +1,19 @@
 # VillagerCoins
 Minecraft modpack to make villagers use coins instead of emeralds. 
 
-#### Orientation
+### Installation 
+This is a modpack, and so it can be installed like any other for a vanilla Minecraft experience with the addition of villagers using coins for trade.
+
+If you already have a favorite modpack and wish to add villager coins to it, then perform the following three steps:
+1. Add the [Villager Trade Tables](https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables) mod to your modpack
+2. Add the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod to your modpack
+3. Unzip the [latest release](https://github.com/AngleWyrm10/VillagerCoins/releases) source code to your .minecraft folder
+
+##### Known Incompatibilities
+[Minecraft Comes Alive](https://github.com/AngleWyrm10/VillagerCoins/issues/1)
+
+
+### Orientation
 Ever notice how bizarre the villager prices are? There are trades that clearly will never be made by a player because they're awful. And there are trades that vastly outweigh everything else that could be purchased.
 
 This modpack seeks to correct those anomalies by switching away from using clunky emeralds as currency, into something a bit more suitable to the Minecraft fantasy genre: Coins of copper, silver, and gold.
