@@ -7,7 +7,7 @@ This is a modpack, and so it can be installed like any other for a vanilla Minec
 If you already have a favorite modpack and wish to add villager coins to it, then perform the following three steps:
 1. Add the [Villager Trade Tables](https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables) mod to your modpack
 2. Add the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod to your modpack
-3. Unzip the [latest release](https://github.com/AngleWyrm10/VillagerCoins/releases) source code and put the contained config folder into your .minecraft/config folder
+3. Unzip the [latest release](https://github.com/AngleWyrm10/VillagerCoins/releases) source code and put the contained config folder into your .minecraft folder
 
 ##### Known Incompatibilities
 [Minecraft Comes Alive](https://github.com/AngleWyrm10/VillagerCoins/issues/1)
