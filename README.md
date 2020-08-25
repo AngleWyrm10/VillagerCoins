@@ -31,6 +31,7 @@ So for this modpack I've endeavored to maintain as much stability as possible. T
 #### Coins of the Realm
 For the coins, I've gone with the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod, which offers a suitable set of coins that can be interchanged with each other by crafting to the next higher/lower denomination. I've chosen a somewhat arbitrary target EMC value of 64 for the base copper coin, because it places the most common trades in the copper-silver range, with gold coins for expensive trades.
 
+The value a coin stores is defined by the trades. For example, a copper coin can be traded two for a piece of coal, one for a carrot, one for a stack of cobblestone. Whereas a silver coin can be traded for shears, or a couple maps, and a gold coin can purchase an enchanted book of Protection IV or Unbreaking II. 
 
 | Coin | EMC |
 |------|-----|
