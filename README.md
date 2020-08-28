@@ -26,7 +26,7 @@ If a copper coin can be traded for a rabbit, and a rabbit can be traded for a co
 
 But if the trade is lossy, like some of those coal guzzling generator mods that continue to burn fuel when there's no benefit, then we have what they call inflation and players will look elsewhere to store their valuables.  No one wants a leaky purse.
 
-So for this modpack I've endeavored to maintain as much stability as possible. The method I've chosen for establishing the merit of trades is the Energy-Matter Currency (EMC) pricing system developed in the mod [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte). That mod is neither required nor included in this modpack.
+So for this modpack I've endeavored to maintain as much stability as possible. The method I've chosen for establishing the merit of trades is the Energy-Matter Currency (EMC) pricing system developed in the mod [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte). It establishes a basic principle that price can be calculated as the sum of a thing's parts. That mod is neither required nor included in this modpack.
 
 #### Coins of the Realm
 For the coins, I've gone with the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod, which offers a suitable set of coins that can be interchanged with each other by crafting to the next higher/lower denomination. I've chosen a somewhat arbitrary target EMC value of 64 for the base copper coin, because it places the most common trades in the copper-silver range, with gold coins for expensive trades.
