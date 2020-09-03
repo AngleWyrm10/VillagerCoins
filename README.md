@@ -1,5 +1,5 @@
 # VillagerCoins
-Minecraft modpack to make villagers use coins instead of emeralds. 
+Minecraft modpack to make villagers trade using coins instead of emeralds. 
 
 ### Installation 
 This is a modpack, and so it can be installed like any other for a vanilla Minecraft experience with the addition of villagers using coins for trade.
@@ -8,6 +8,9 @@ If you already have a favorite modpack and wish to add villager coins to it, the
 1. Add the [Villager Trade Tables](https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables) mod to your modpack
 2. Add the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod to your modpack
 3. Unzip the [latest release](https://github.com/AngleWyrm10/VillagerCoins/releases) source code and put the contained config folder into your .minecraft folder
+
+##### Extra Support
+ [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
 
 ##### Known Incompatibilities
 [Minecraft Comes Alive](https://github.com/AngleWyrm10/VillagerCoins/issues/1)
@@ -26,12 +29,14 @@ If a copper coin can be traded for a rabbit, and a rabbit can be traded for a co
 
 But if the trade is lossy, like some of those coal guzzling generator mods that continue to burn fuel when there's no benefit, then we have what they call inflation and players will look elsewhere to store their valuables.  No one wants a leaky purse.
 
-So for this modpack I've endeavored to maintain as much stability as possible. The method I've chosen for establishing the merit of trades is the Energy-Matter Currency (EMC) pricing system developed in the mod [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte). It establishes a basic principle that price can be calculated as the sum of a thing's parts. That mod is neither required nor included in this modpack.
+So for this modpack I've endeavored to maintain as much stability as possible. The method I've chosen for establishing the merit of trades is the Energy-Matter Currency (EMC) pricing system developed in the mod ProjectE. It asserts a basic principle that price can be calculated as the sum of a thing's parts.
+
+That mod is neither required nor included in this modpack, but if installed then the coins will have the EMC values listed below.
 
 #### Coins of the Realm
-For the coins, I've gone with the [Just Coins](https://www.curseforge.com/minecraft/mc-mods/just-coins) mod, which offers a suitable set of coins that can be interchanged with each other by crafting to the next higher/lower denomination. I've chosen a somewhat arbitrary target EMC value of 64 for the base copper coin, because it places the most common trades in the copper-silver range, with gold coins for expensive trades.
+For the coins, I've gone with the Just Coins mod, which offers a suitable set of coins that can be interchanged with each other by crafting to the next higher/lower denomination. I've chosen a somewhat arbitrary target EMC value of 64 for the base copper coin, because it places the most common trades in the copper-silver range, with gold coins for expensive trades.
 
-The value a coin stores is defined by the trades. For example, a copper coin can be traded two for a piece of coal, one for a carrot, one for a stack of cobblestone. Whereas a silver coin can be traded for shears, or a couple maps, and a gold coin can purchase an enchanted book of Protection IV or Unbreaking II. 
+Trades define the value a coin stores, and the integrity of the pricing system. For example, a copper coin can be traded two for a piece of coal, one for a carrot, one for a stack of cobblestone. Whereas a silver coin can be traded for shears, or a couple maps, and a gold coin can purchase an enchanted book of Protection IV or Unbreaking II. 
 
 | Coin | EMC |
 |------|-----|
